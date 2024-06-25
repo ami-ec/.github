@@ -1,2 +1,2 @@
 # .github
-Embedded Controller in American Mgatrends. Taiwan.
+Embedded Controller in American Megatrends. Taiwan.
